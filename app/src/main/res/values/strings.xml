@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Java Book</string>
+
+    <string-array name="title_story">
+        <item>What is java </item>
+        <item>History of Java</item>
+        <item>story3 </item>
+        <item>story4 </item>
+        <item>story5 </item>
+        <item>story6 </item>
+        <item>story7 </item>
+        <item>story8 </item>
+        <item>story9 </item>
+        <item>story10 </item>
+        <item>story11 </item>
+        <item>story12 </item>
+        <item>story13 </item>
+        <item>story14 </item>
+        <item>story15 </item>
+
+    </string-array>
+    <string-array name="details_strory">
+        <item>What is Java?
+            Java is a programming language and a platform.
+            Java is a high level, robust, object-oriented and
+            secure programming language.
+            Java was developed by Sun Microsystems (which is now the subsidiary of Oracle)
+            in the year 1995.
+            James Gosling is known as the father of Java. Before Java,
+            its name was Oak. Since Oak was already a registered company,
+            so James Gosling and his team changed the name from Oak to Java.
+
+            Application
+
+            According to Sun, 3 billion devices run Java. There are many devices where Java is currently used.
+            Some of them are as follows:
+            Desktop Applications such as acrobat reader, media player, antivirus, etc.
+            Web Applications such as irctc.co.in, javatpoint.com, etc.
+            Enterprise Applications such as banking applications.
+             1) Mobile
+             2) Embedded System
+             3) Smart Card
+             4) Robotics
+             5) Games, etc.
+        </item>
+        <item> The history of Java is very interesting.
+            Java was originally designed for interactive television,
+            but it was too advanced technology for the digital
+            cable television industry at the time.
+            The history of Java starts with the Green Team.
+            Java team members (also known as Green Team),
+            initiated this project to develop a language for
+            digital devices such as set-top boxes,
+            televisions, etc. However, it was best suited
+            for internet programming. Later,
+            Java technology was incorporated by Netscape.
+            The principles for creating Java programming were
+            "Simple, Robust, Portable, Platform-independent,
+            Secured, High Performance,
+            Multithreaded, Architecture Neutral,
+            Object-Oriented, Interpreted, and Dynamic".
+
+        </item>
+        <item>story3 </item>
+        <item>story4 </item>
+        <item>story5 </item>
+        <item>story6 </item>
+        <item>story7 </item>
+        <item>story8 </item>
+        <item>story9 </item>
+        <item>story10 </item>
+        <item>story11 </item>
+        <item>story12 </item>
+        <item>story13 </item>
+        <item>story14 </item>
+        <item>story15 </item>
+
+    </string-array>
+
+
+</resources>
